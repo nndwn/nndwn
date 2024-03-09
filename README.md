@@ -1,8 +1,8 @@
 ### Hi there 👋
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://httpslearnsveltedev-xfsn-8vtl0f71--5173--dc33e3af.local-corp.webcontainer.io/image.gif">
-  <source media="https://httpslearnsveltedev-xfsn-8vtl0f71--5173--dc33e3af.local-corp.webcontainer.io/image.gif">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://httpslearnsveltedev-xfsn-8vtl0f71--5173--dc33e3af.local-corp.webcontainer.io/image.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/originals/8a/39/03/8a390326148f845c0e26c23d56b7fde9.gif">
+  <source media="https://i.pinimg.com/originals/8a/39/03/8a390326148f845c0e26c23d56b7fde9.gif">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://i.pinimg.com/originals/8a/39/03/8a390326148f845c0e26c23d56b7fde9.gif">
 </picture>
 
 <!--
