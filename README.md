@@ -1,5 +1,5 @@
-- TypeScript               - Postgre
-- C#                       - Mysql
-- Kotlin                   - sqlite
-- Java 
-- JavaScript 
+TypeScript               Postgre
+C#                       Mysql
+Kotlin                   sqlite
+Java 
+JavaScript 
