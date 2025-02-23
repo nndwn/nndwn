@@ -1,6 +1,5 @@
-My Favorite Langguage
-- TypeScript
-- C#
-- Kotlin
-- Java
-- JavaScript
+- TypeScript               - Postgre
+- C#                       - Mysql
+- Kotlin                   - sqlite
+- Java 
+- JavaScript 
